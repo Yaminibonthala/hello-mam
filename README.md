@@ -4,3 +4,4 @@ name:yamini
 project:version control
 college:anmk
 course:mca
+affiliated to JNTUR
